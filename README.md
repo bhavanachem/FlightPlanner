@@ -14,3 +14,4 @@ utilizes an iterative backtracking algorithm with a stack to explore all possibl
  
 The output includes up to three optimal flight plans sorted by cost or time, or an error
  
+<img width="742" alt="SemProj_Output" src="https://github.com/user-attachments/assets/358d9e03-e5e3-446f-8956-d515a9edf622" />
